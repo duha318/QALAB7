@@ -1,0 +1,7 @@
+c:\users\tug52950\source\repos\qalab\qalab\bin\Debug\qalab.exe.config
+c:\users\tug52950\source\repos\qalab\qalab\bin\Debug\qalab.exe
+c:\users\tug52950\source\repos\qalab\qalab\bin\Debug\qalab.pdb
+c:\users\tug52950\source\repos\qalab\qalab\obj\Debug\qalab.csprojAssemblyReference.cache
+c:\users\tug52950\source\repos\qalab\qalab\obj\Debug\qalab.csproj.CoreCompileInputs.cache
+c:\users\tug52950\source\repos\qalab\qalab\obj\Debug\qalab.exe
+c:\users\tug52950\source\repos\qalab\qalab\obj\Debug\qalab.pdb
